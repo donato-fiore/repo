@@ -1,0 +1,12 @@
+Origin: Donato's repo
+Label: Donato's repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: donato's swag repo
+
+SHA256:
+ 4b4225f0b1a46af82549a964aeb3c576a791b796b90a7a480d440c080611969c 557 Packages.bz2
+ 8a6b3d477856557165d882b6bb16d9b9ef93967f17a3892f47178f4c062bd90d 552 Packages.xz
