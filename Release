@@ -1,0 +1,9 @@
+Origin: fiore's repo
+Label: fiore's repo
+Suite: stable
+Version: 1.0
+Codename: fiore
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: fiore's repo
+Icon: file://CydiaIcon.png
