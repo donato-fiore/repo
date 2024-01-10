@@ -1,0 +1,51 @@
+Package: com.fiore.nolstext
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: fiore
+Installed-Size: 168
+Depends: ellekit
+Filename: ./debs/com.fiore.nolstext_1.0_iphoneos-arm64e.deb
+Size: 2820
+MD5sum: dcec289adbeb63cdd9fa88a374586c3c
+SHA1: 9c8ebd8201b2fc7209d2f9183aa493e51e765ff7
+SHA256: f60a0f5577a87848e86ee81cd83a7b33db4ce5f6ccd34ee46b7b89113b1328e3
+Section: Tweaks
+Description: Remove the "Confidential & Proprietary..." text from lockscreen after installing Serotonin
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.nolstext/icon.png
+Name: NoLSText
+
+Package: com.fiore.nolstext
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 168
+Depends: ellekit
+Filename: ./debs/com.fiore.nolstext_1.0_iphoneos-arm64.deb
+Size: 2862
+MD5sum: 93eed4c233e49758c15fc2b4d035cf09
+SHA1: 929c17ee3bc64c7a7ac75652d79c91cd3271bc39
+SHA256: 8089f7ab6843b8ff88f562f1fb2719b1b4c9fdd9814cf716cfb37bc3397d465e
+Section: Tweaks
+Description: Remove the "Confidential & Proprietary..." text from lockscreen after installing Serotonin
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.nolstext/icon.png
+Name: NoLSText
+
+Package: com.fiore.nolstext
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: fiore
+Installed-Size: 168
+Depends: ellekit
+Filename: ./debs/com.fiore.nolstext_1.0_iphoneos-arm.deb
+Size: 2804
+MD5sum: d89e4ce0ed4360668be6b1deae51c642
+SHA1: 71d9ad27ec8d7e796aaf7e1c45199330a66f9ea6
+SHA256: 533aecf7190992a2f8dafcb80e502f4ef685acb8548efb65f57b1cb6a8f6944e
+Section: Tweaks
+Description: Remove the "Confidential & Proprietary..." text from lockscreen after installing Serotonin
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.nolstext/icon.png
+Name: NoLSText
+
