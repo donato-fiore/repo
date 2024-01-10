@@ -1,3 +1,54 @@
+Package: com.fiore.ccborder
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.fiore.ccborder_1.0_iphoneos-arm.deb
+Size: 5784
+MD5sum: 3b126475ea1516c55c82faa72b81363d
+SHA1: bb4bc3e1deecc7cc0084d1dc36e1e1e62b9be2be
+SHA256: 8de60c1fedca145cc856893837df93088e1948c0d5943fb19dccfad2a5b5893a
+Section: Tweaks
+Description: Simple tweak that removes module background and adds a border, just like CoolCC!
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
+Name: CCBorder
+
+Package: com.fiore.ccborder
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.fiore.ccborder_1.0_iphoneos-arm64.deb
+Size: 5848
+MD5sum: 60d6bc31c4e48b10e1377eb7704f76a7
+SHA1: fb8469bc8eb29a7a3aa4254a9bd358e1fce7d888
+SHA256: c81a79756483e8a4245c8fa50194f5527638dce681c1d6754b851501649af89c
+Section: Tweaks
+Description: Simple tweak that removes module background and adds a border, just like CoolCC!
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
+Name: CCBorder
+
+Package: com.fiore.ccborder
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.fiore.ccborder_1.0_iphoneos-arm64e.deb
+Size: 5808
+MD5sum: 2efef31b084c69a98b67d253be031b62
+SHA1: 69d3ea3ad26077773a3de80ed7c0bbed823c4531
+SHA256: 02e76b3afd9b9a881f04675ea818fde3a2f66739237f55368d67421f346b0fea
+Section: Tweaks
+Description: Simple tweak that removes module background and adds a border, just like CoolCC!
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
+Name: CCBorder
+
 Package: com.fiore.nolstext
 Version: 1.0
 Architecture: iphoneos-arm64e
