@@ -1,0 +1,82 @@
+{
+    "minVersion": "0.1",
+    "headerImage": "",
+    "class": "DepictionTabView",
+    "tintColor": "#ff99b1",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBottomMargin": false,
+                    "title": "GameSeagull",
+                    "useBoldText": true
+                },
+                {
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "GamePigeon hax have never been cheaper"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://raw.githubusercontent.com/donato-fiore/repo/main/assets/com.fiore.gameseagull/screenshots/01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://raw.githubusercontent.com/donato-fiore/repo/main/assets/com.fiore.gameseagull/screenshots/02.png"
+                        }
+                    ],
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6
+                },
+                {
+                    "markdown": " Have you ever played iMessages games for a bet and lost? Then this tweak is for you! With these hacks, you're sure to win your next wager!\r\n\r\nSome Popular Hacks:\r\n* Archery\r\n\t* Disable Wind\r\n\t* Disable Timer\r\n* 8 Ball\r\n\t* Extend Trajectory\r\n* Sea Battle\r\n\t* See Enemy Ships\r\n* Word Games\r\n\t* Reveal All Words\r\n* And many more!\r\n\r\nIf you would like to support me, consider donating [here](https://paypal.me/donatofiore)!",
+                    "class": "DepictionMarkdownView",
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "useBoldText": true
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "2.0",
+                    "class": "DepictionTableTextView",
+                    "title": "Version"
+                },
+                {
+                    "text": "01-28-2024",
+                    "class": "DepictionTableTextView",
+                    "title": "Released"
+                },
+                {
+                    "text": "Free",
+                    "class": "DepictionTableTextView",
+                    "title": "Price"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "fiore",
+                    "class": "DepictionTableTextView",
+                    "title": "Developer"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "class": "DepictionStackView",
+            "tabname": "Details"
+        }
+    ]
+}

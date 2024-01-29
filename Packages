@@ -49,6 +49,42 @@ Author: fiore
 Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
 Name: CCBorder
 
+Package: com.fiore.gameseagull
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: fiore
+Installed-Size: 400
+Depends: mobilesubstrate, ws.hbang.common (>= 1.17), firmware (>= 14.0)
+Filename: ./debs/com.fiore.gameseagull_2.0.0_iphoneos-arm.deb
+Size: 29846
+MD5sum: cdf227125589c4bfdfb1896138bd1ea6
+SHA1: c386a7d8fae6f9dfc3d5e269b808a536422b5a4c
+SHA256: 14fdf466de5bf33f1b2378321e489051bfd0c8efc15ad8b1f9229b6bc08606f5
+Section: Tweaks
+Description: GamePigeon hax have never been cheaper!
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/main/assets/com.fiore.gameseagull/icon.png
+Name: GameSeagull
+Sileodepiction: https://raw.githubusercontent.com/donato-fiore/repo/main/depictions/com.fiore.gameseagull/depiction.json
+
+Package: com.fiore.gameseagull
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 400
+Depends: mobilesubstrate, ws.hbang.common (>= 1.17), firmware (>= 14.0)
+Filename: ./debs/com.fiore.gameseagull_2.0.0_iphoneos-arm64.deb
+Size: 29864
+MD5sum: 568cd381e3f30de3aadca0012e7ceb8a
+SHA1: 3d1680714b83b91af08589023343732da1c1d4ea
+SHA256: 6a473b691d95a3f25f5f8eb74065abf80a634467357987e36d444c6de6dbc7aa
+Section: Tweaks
+Description: GamePigeon hax have never been cheaper!
+Author: fiore
+Icon: https://raw.githubusercontent.com/donato-fiore/repo/main/assets/com.fiore.gameseagull/icon.png
+Name: GameSeagull
+Sileodepiction: https://raw.githubusercontent.com/donato-fiore/repo/main/depictions/com.fiore.gameseagull/depiction.json
+
 Package: com.fiore.nolstext
 Version: 1.0
 Architecture: iphoneos-arm64e
