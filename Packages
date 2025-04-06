@@ -172,3 +172,35 @@ Author: fiore
 Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.nolstext/icon.png
 Name: NoLSText
 
+Package: com.fiore.shootingstar
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.fiore.shootingstar_1.0_iphoneos-arm64.deb
+Size: 3218
+MD5sum: 22f3b757045bac2bc016fa23a6f396ed
+SHA1: 6b0226e15005a717442fd079b0930405081fb2ae
+SHA256: a2d9acbd3efb21aad5e59db5d92267a94c5e0706daf109c9b6d058169cd41902
+Section: Tweaks
+Description: Add "Eid Mubarak" message effect as a selectable option in the messages effect menu.
+Author: fiore
+Name: ShootingStar
+
+Package: com.fiore.shootingstar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.fiore.shootingstar_1.0_iphoneos-arm.deb
+Size: 3144
+MD5sum: 2e257e07893e5b2bb76b654fd001fd37
+SHA1: 55e630a858126e1488c5d2cd822bee8b1f5941bc
+SHA256: b3600c12c4d01670a4ffb43b1fe00fbb7075cb1265300c502c5c90b309dd171a
+Section: Tweaks
+Description: Add "Eid Mubarak" message effect as a selectable option in the messages effect menu.
+Author: fiore
+Name: ShootingStar
+
