@@ -204,3 +204,35 @@ Description: Add "Eid Mubarak" message effect as a selectable option in the mess
 Author: fiore
 Name: ShootingStar
 
+Package: com.fiore.shootingstar
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.fiore.shootingstar_1.1_iphoneos-arm.deb
+Size: 3676
+MD5sum: efcfbdf87edc0786f5089ffc3e943703
+SHA1: 8450183b3481f335ed53a8f77c5e37d34c18e90c
+SHA256: 6527913866911343a71cb6796b0d0bcaf3078f6fa93b1bb928a8d43f1da38869
+Section: Tweaks
+Description: Add "Eid Mubarak" message effect as a selectable option in the messages effect menu.
+Author: fiore
+Name: ShootingStar
+
+Package: com.fiore.shootingstar
+Version: 1.1
+Architecture: iphoneos-arm64
+Maintainer: fiore
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.fiore.shootingstar_1.1_iphoneos-arm64.deb
+Size: 3760
+MD5sum: c05fde0686979ee8b885023e85a12df7
+SHA1: e595644f0c4f84e5164d17e329bb4d604adce52c
+SHA256: 2dcfbd86c673439a54e0617f3d81a1e94b4b1c0148deeda63b32fc98c71b3391
+Section: Tweaks
+Description: Add "Eid Mubarak" message effect as a selectable option in the messages effect menu.
+Author: fiore
+Name: ShootingStar
+
